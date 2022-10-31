@@ -1,5 +1,5 @@
-var vNum=100;
-var vName='Ali';
+var UserAge=25;
+var UserName='Haris';
 
 
 
@@ -7,7 +7,7 @@ function myFunc1()
 {
     alert('pop');
 
-document.getElementById('paragrapgh').innerHTML=vName;
+document.getElementById('paragrapgh').innerHTML=UserName;
 
 
 }
